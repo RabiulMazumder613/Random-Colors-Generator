@@ -19,7 +19,7 @@ compared to the uninteractied button where it is entirely red.
 
 ## Video Walkthrough
 
-Here's a walkthrough of the Eden-Shopping-Site:
+Here's a walkthrough of the Random-Colors-Generator:
 
 <img src='randoColors.gif' title='Video Walkthrough' width='1500' alt='Video Walkthrough' />
 
